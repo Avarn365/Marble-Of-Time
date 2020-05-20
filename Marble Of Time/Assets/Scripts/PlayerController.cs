@@ -89,6 +89,11 @@ public class PlayerController : MonoBehaviour
         {
             SceneManager.LoadScene("Game Over");
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
+        }
     }
 
     private bool IsGrounded()

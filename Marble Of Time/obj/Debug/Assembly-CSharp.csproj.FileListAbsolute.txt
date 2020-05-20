@@ -1,0 +1,2 @@
+C:\Users\varne\Desktop\Marble Of Time\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\varne\Desktop\Marble Of Time\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
